@@ -28,11 +28,11 @@ Kami menerima kontribusi dari komunitas! Jika Anda tertarik untuk berkontribusi,
 Untuk melaporkan bug atau mengajukan fitur baru, Anda dapat membuka **issue** di repositori ini.
 
 ### Lisensi
-Proyek ini menggunakan **MIT License**. Lihat file [LICENSE](link-ke-file-lisensi) untuk informasi lebih lanjut.
+Proyek ini menggunakan **MIT License**. Lihat file [LICENSE](https://github.com/Mainra-Team/UnityGameFramework/blob/main/LICENSE) untuk informasi lebih lanjut.
 
 ### Kontak
 Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami melalui:
-- Discord: [Movlution](link-ke-discord)
+- Discord: [Movlution](https://discord.com/users/753762236924952636)
 - Email: mainrastudio@gmail.com
 
 ### Roadmap
